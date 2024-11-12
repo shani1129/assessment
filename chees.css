@@ -1,0 +1,46 @@
+
+ body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #fff;
+    margin-top: 200px;
+}
+
+.box1{
+    width: 80;
+    height: 80px;
+
+    
+}
+
+.box2{
+    width: 80px;
+    height: 80px;
+    background-color: #190c0c;
+
+}
+
+.bx{
+    background-color: #3f1d1d;
+    color: #fff;
+    padding: 20px;
+    
+}
+
+.border{
+    border:1px solid #000;
+}
+
+
+
+
+
+
+
+
+
+
+
