@@ -1,0 +1,123 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+.main-nav{
+    width: 100vw;
+    height: 70px;
+    background-color: rgb(74, 168, 137);
+    border: 1px solid #000;
+    box-shadow: 2px 4px 4px #2a1c1c;
+    display: flex;
+    align-items: center;
+    float: left;
+}
+
+.nav-bar1{
+    width: 20vw;
+    height: 70px;
+    font-size: 30px;
+    text-shadow: 2px 4px 4px #2a1c1c;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.nav-bar1:hover{
+    background-color: #000;
+    color: rgb(74, 168, 137);
+    border: 2px solid #000;
+    border-radius: 4px;
+    transition: 0.5s ease-in;
+    cursor: pointer;
+}
+
+.nav-bar2{
+    width: 40vw;
+    height: 70px;
+    margin-left: 20vw;
+    float: left;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.row1{
+    width: 8vw;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    float: left;
+}
+
+.row1:hover{
+    background-color: #000;
+    color: rgb(74, 168, 137);
+    border: 2px solid #000;
+    border-radius: 4px;
+    transition: 0.5s ease-in;
+    cursor: pointer;
+
+}
+.row2{
+    width: 8vw;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    float: left;
+
+    
+}
+.row2:hover{
+    background-color: #000;
+    color: rgb(74, 168, 137);
+    border: 2px solid #000;
+    border-radius: 4px;
+    transition: 0.5s ease-in;
+    cursor: pointer;
+
+
+}
+
+.row3{
+    width: 8vw;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    float: left;
+
+    
+}
+.row3:hover{
+    background-color: #000;
+    color: rgb(74, 168, 137);
+    border: 2px solid #000;
+    border-radius: 4px;
+    transition: 0.5s ease-in;
+    cursor: pointer;
+
+
+}
+.row4{
+    width: 8vw;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    float: left;
+
+    
+}
+.row4:hover{
+    background-color: #000;
+    color: rgb(74, 168, 137);
+    border: 2px solid #000;
+    border-radius: 4px;
+    transition: 0.5s ease-in;
+    cursor: pointer;
+
+}
+

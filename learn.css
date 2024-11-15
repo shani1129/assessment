@@ -13,6 +13,7 @@ section {
         /* url('https://media.geeksforgeeks.org/wp-content/uploads/20210408155049/gfg9.png'); */
         url(google\ pic.jpg);
     background-size: cover;
+    object-fit: cover;
 }
 
 /* Styling the left floating section */
