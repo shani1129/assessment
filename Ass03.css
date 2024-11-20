@@ -1,0 +1,91 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+.main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("https://img.freepik.com/free-vector/abstract-digital-grid-vector-black-background_53876-111550.jpg");
+    object-fit: cover;
+    background-size: cover;
+    background-position: center;
+}
+
+.box {
+    border: 2px solid #e21818;
+    width: 40vw;
+    height: 70vh;
+    box-shadow:4px 4px 4px #cd2121;
+}
+
+.row1 {
+    font-family: sans-serif;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 40vw;
+    height: 15vh;
+    color: #cd2121;
+}
+
+.row2 {
+    width: 40vw;
+    height: 10vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 20px;
+}
+
+.input {
+    height: 30px;
+    width: 20vw;
+    border-radius: 20px;
+    background: rgba(255,255,255,0.3);
+    color: #fff;
+}
+
+.row3 {
+    width: 40vw;
+    height: 10vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 20px;
+}
+
+.row4 {
+    width: 40vw;
+    height: 10vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 20px;
+}
+
+.row5 {
+    width: 40vw;
+    height: 10vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 20px;
+
+}
+
+.sub {
+    height: 6vh;
+    width: 7vw;
+    border-radius: 20px;
+    cursor: pointer;
+    box-shadow: 4px 4px 2px #211d1d;
+    background-color:#45adbd;
+
+}
