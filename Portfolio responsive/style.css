@@ -1,0 +1,52 @@
+.box:hover{
+    background-color: rgb(255, 196, 0);
+    cursor: pointer;
+    color: #000;
+    transition: all 0.5s ease-in-out;
+
+}
+.box{
+    border: 1px solid rgb(255, 196, 0);
+    border-radius: rounded-4px;
+    border-radius: 10px;
+    color: #FFF;
+
+}
+
+
+.first-img >img{
+    transition: transform 0.5s;
+    opacity: 75%;
+    color: #000;
+}
+
+
+.first-img:hover>img{
+  
+    opacity: 0.2;
+}
+
+
+.first-img {
+    position: relative;
+    display: inline-block;
+  }
+
+  .first-img img {
+    width: 100%;
+    height: auto;
+  }
+
+  .first-img .text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 24px;
+    display: none;
+  }
+
+  .first-img:hover:hover .text {
+    display: block;
+  }
